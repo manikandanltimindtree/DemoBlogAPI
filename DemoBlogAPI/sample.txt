@@ -1,0 +1,15 @@
+{
+  "blogPostId": 0,
+  "title": "string",
+  "description": "string",
+  "author": "string",
+  "content": "string",
+  "comments": [
+    {
+      "commentId": 0,
+      "content": "string",
+      "blogPostId": 0,
+      "blogPost": "string"
+    }
+  ]
+}
